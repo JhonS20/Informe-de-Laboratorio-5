@@ -3,13 +3,13 @@
 
 1.1.	Objetivos Generales 
 
-• 
+• Analizar y comprobar aplicando el teorema de THEVENIN los voltajes que se optienen en un circuito equivalente con un circuito real.
 
 1.2.	Objetivos Específicos 
 
-•	
+•	Comprobar la equivalencia entre un circuito real y el circuito quivalente de THEVENIN aplicando los conocimiento previos y métodos para determinar valores de voltaje y corriente.
 
-•	
+•	Evidenciar los diferentes cambinos que se puede optener al anlizar un circuito de forma diferentes y como cambia las ecuaciones al realuizar los calculos respectivos.
 
 2.	MARCO TEORICO 
 
