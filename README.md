@@ -13,6 +13,8 @@
 
 2.	MARCO TEORICO 
 
+![Diagrama en blanco (2)](https://user-images.githubusercontent.com/93899658/148539218-3391f6a1-b488-4175-8473-3ee906bc3455.png)
+
 
 3.	EXPLICACION DEL PROCEDIMIENTO
 
