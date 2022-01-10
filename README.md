@@ -30,7 +30,7 @@
 
 3.2.2. Mida el voltaje y la corriente en el resistor R5, anote los resultados en la tabla 5.2.
 
-![Lab 5 final_Página_3](https://user-images.githubusercontent.com/93209004/148490505-b33536d2-c07d-42eb-a652-e87ba3381aba.jpg)
+![corregido 2](https://user-images.githubusercontent.com/93209004/148793529-bf4508dd-d3cd-48f5-b416-85c08a1da679.jpg)
 
 3.2.3. Desconecte el resistor R5 y mida el voltaje en el circuito abierto. Anote el valor
 medido en la tabla 5.1.
