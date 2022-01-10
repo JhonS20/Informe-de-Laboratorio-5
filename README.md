@@ -36,7 +36,7 @@
 medido en la tabla 5.1.
 
 ![Lab 5 final_Página_4](https://user-images.githubusercontent.com/93209004/148490528-90ea6cad-b615-4fe4-82f8-c346c720a08a.jpg)
-![Lab 5 final_Página_5](https://user-images.githubusercontent.com/93209004/148490540-e5a4658e-ed2a-444b-b00b-c4b08842b27d.jpg)
+![corregido](https://user-images.githubusercontent.com/93209004/148791662-b8dec3b2-fbae-4fa7-b16a-bbac6f182429.jpg)
 ![Lab 5 final_Página_6](https://user-images.githubusercontent.com/93209004/148490541-fbde1278-09d9-49fd-b3dd-2b2f081b0f95.jpg)
 
 3.2.4. Anule el efecto de las fuentes de alimentación. Desconecte R5 y desde el circuito
